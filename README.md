@@ -19,7 +19,7 @@
  <img align="center" alt="Java" height="60" width="70" src="https://marketingonline.gratis/wp-content/uploads/2021/12/5-ejemplos-de-lenguaje-de-programacion-1024x1024.png" />
  <img align="center" alt="SpringBoot" height="60" width="70" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" />
  <img align="center" alt="Thymeleaf" height="60" width="70" src="https://seeklogo.com/images/T/thymeleaf-logo-6E4D42A713-seeklogo.com.png" />
- <img align="center" alt="Rody-Python" height="60" width="70" src="https://www.pinpng.com/pngs/m/133-1334709_more-free-bootstrap-png-images-bootstrap-logo-vector.png" />
+ <img align="center" alt="Html" height="60" width="70" src="https://cdn.imgbin.com/18/19/14/imgbin-html-computer-icons-web-development-bootstrap-world-wide-web-uF61tKuX4HrqFnYfJyntKCRPk.jpg" />
  <img align="center" alt="Rody-Python" height="60" width="70" src="https://th.bing.com/th/id/R.7787f087a131e43e918de0aeafeee7d0?rik=q2ljdSxImMRXcA&pid=ImgRaw&r=0" />
  <img align="center" alt="Rody-Python" height="60" width="70" src="https://i.stack.imgur.com/irUrQ.png" />
 </div>
