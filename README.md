@@ -24,3 +24,4 @@
  <img align="center" alt="Rody-Python" height="60" width="70" src="https://www.pinpng.com/pngs/m/133-1334709_more-free-bootstrap-png-images-bootstrap-logo-vector.png" />
  <img align="center" alt="Rody-Python" height="60" width="70" src="https://th.bing.com/th/id/R.7787f087a131e43e918de0aeafeee7d0?rik=q2ljdSxImMRXcA&pid=ImgRaw&r=0" />
  <img align="center" alt="Rody-Python" height="60" width="70" src="https://i.stack.imgur.com/irUrQ.png" />
+</div>
