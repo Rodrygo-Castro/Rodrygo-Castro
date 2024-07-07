@@ -21,5 +21,5 @@
  <img align="center" alt="Thymeleaf" height="60" width="70" src="https://seeklogo.com/images/T/thymeleaf-logo-6E4D42A713-seeklogo.com.png" />
  <img align="center" alt="Html" height="60" width="70" src="https://cdn.imgbin.com/18/19/14/imgbin-html-computer-icons-web-development-bootstrap-world-wide-web-uF61tKuX4HrqFnYfJyntKCRPk.jpg" />
  <img align="center" alt="Css" height="60" width="70" src="https://p1.hiclipart.com/preview/32/1011/672/logo-blue-organization-number-line-text-area-symbol-sign-png-clipart.jpg" />
- <img align="center" alt="Rody-Python" height="60" width="70" src="https://i.stack.imgur.com/irUrQ.png" />
+ <img align="center" alt="Java Script" height="60" width="70" src="https://imagedelivery.net/5MYSbk45M80qAwecrlKzdQ/38a9cafe-c53e-47f2-f431-428120462000/public" />
 </div>
