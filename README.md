@@ -30,6 +30,8 @@ Eu sou um desenvolvedor de software com experiência em Java, Spring, MySQL, e u
 
 ## 📊 Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Rodrygo-Castro&show_icons=true&theme=radical)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrygo-Castro&theme=radical)
+![Contribuições](https://github-readme-stats.vercel.app/api/wakatime?username=Rodrygo-Castro&theme=radical)
 
 ## Contato
 Você pode me encontrar e entrar em contato através das seguintes plataformas:
