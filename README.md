@@ -29,7 +29,7 @@ Eu sou um desenvolvedor de software com experiência em Java, Spring, MySQL, e u
 - Contribuidor ativo para projetos de código aberto como [Projeto Cadastro de Pacientes com Dengue](https://github.com/Rodrygo-Castro/rabbitmq-producer) e [Projeto Controle de cadastro de paciente com Dengue](https://github.com/Rodrygo-Castro/rabbitmq-consumer).
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github.com/Rodrygo-Castro)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Rodrygo-Castro&show_icons=true&theme=radical)
 
 ## Contato
 Você pode me encontrar e entrar em contato através das seguintes plataformas:
