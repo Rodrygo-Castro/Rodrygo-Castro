@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://www.aquilainformatique.com/medias/images/size/1800x532/diaporama/slide-2.jpg" />
+<img align="center" style="margin-bottom:50px; object-fit: cover" width=100% src="https://www.aquilainformatique.com/medias/images/size/1800x532/diaporama/slide-2.jpg" alt="Banner de Boas Vindas"/>
 &nbsp;&nbsp;&nbsp;
 
 # Olá, eu sou o Rodrigo! 👋
@@ -27,11 +27,11 @@ Eu sou um desenvolvedor de software com experiência em Java, Spring, MySQL, e u
 - **Outros**: HTML, CSS, Bootstrap
 
 ## Projetos
-- [Sistema de Controle de Dengue](https://github.com/Rodrygo-Castro/rabbitmq-consumer): Projeto que visa controlar a propagação da dengue utilizando Java e Spring.
-- [Gerador de PDFs](https://github.com/Rodrygo-Castro/rabbitmq-consumer): Projeto que gera PDFs personalizados dos dados dos pacientes utilizando Apache PDFBox.
+- [Sistema de Controle de Dengue](https://github.com/Rodrygo-Castro/rabbitmq-consumer): Projeto que visa controlar a propagação da dengue utilizando Java e Spring. Implementa um sistema completo de cadastro e monitoramento de casos.
+- [Gerador de PDFs](https://github.com/Rodrygo-Castro/rabbitmq-consumer): Ferramenta que gera PDFs personalizados dos dados dos pacientes utilizando Apache PDFBox, com suporte para diferentes formatos e visualizações.
 
 ## Contribuições
-- Contribuidor ativo para projetos de código aberto como [Projeto Cadastro de Pacientes com Dengue](https://github.com/Rodrygo-Castro/rabbitmq-producer) e [Projeto Controle de cadastro de paciente com Dengue](https://github.com/Rodrygo-Castro/rabbitmq-consumer).
+- Contribuidor ativo para [Projeto Cadastro de Pacientes com Dengue](https://github.com/Rodrygo-Castro/rabbitmq-producer) e [Projeto Controle de cadastro de paciente com Dengue](https://github.com/Rodrygo-Castro/rabbitmq-consumer), onde implementei funcionalidades chave como a integração com RabbitMQ e geração de relatórios PDF.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrygo-Castro&show_icons=true&theme=radical&bg_color=6CC5FF" alt="Estatísticas do GitHub"/>
@@ -43,6 +43,6 @@ Você pode me encontrar e entrar em contato através das seguintes plataformas:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rodrigo-castro-de-souza/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rodrigocd28@gmail.com)
-
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Rodrygo-Castro)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=120&section=footer" alt="Footer" />
